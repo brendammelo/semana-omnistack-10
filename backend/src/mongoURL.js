@@ -1,0 +1,1 @@
+module.exports = 'mongodb+srv://brenda:brendateste@cluster0-jxctd.mongodb.net/week10?retryWrites=true&w=majority'
